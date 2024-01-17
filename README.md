@@ -1,4 +1,4 @@
-Improved Network Routing via Hybrid Metaheuristics
+# Improved Network Routing via Hybrid Metaheuristics
 
 The ability to efficiently manage and direct data traffic within a network is paramount in today's interconnected world.
 The primary goals of network routing are :
@@ -9,14 +9,14 @@ This project focuses on optimizing network routing for efficient and reliable da
 
 Algorithm Descriptions :-
 
-1. Genetic Algorithm
+1. Genetic Algorithm:
 The Genetic Algorithm is employed for evolving optimal solutions by mimicking the process of natural selection.
 
-2. Dijkstra's Algorithm
+2. Dijkstra's Algorithm:
 Dijkstra's Algorithm finds the shortest paths between nodes in a graph, contributing to efficient route selection.
 
-3. Simulated Annealing
+3. Simulated Annealing:
 Simulated Annealing is utilized to escape local minima and explore the solution space effectively.
 
-4. Floyd-Warshall Algorithm
+4. Floyd-Warshall Algorithm:
 The Floyd-Warshall Algorithm is employed for all-pairs shortest path calculation, aiding in route optimization.
